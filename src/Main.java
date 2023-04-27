@@ -9,6 +9,8 @@ public class Main {
 //
         bookIdiot.setYearPublication(2000);
         System.out.println("bookIdiot.getYearPublication() = " + bookIdiot.getYearPublication());
+        System.out.println(author1);
+        System.out.println(bookChuma);
     }
 
 }
